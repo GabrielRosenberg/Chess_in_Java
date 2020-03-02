@@ -1,2 +1,4 @@
-# Chess_in_Java
- A chess game in Java
+# Chess in Java
+ A chess game in programmed in Java. 
+
+![Chess](chess_java.png)
